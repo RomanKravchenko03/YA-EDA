@@ -1,0 +1,50 @@
+@import url("./font.css");
+
+.txt {
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.oneblock {
+    width:  680px;
+    height: 80px;
+   padding: 20px 340px;
+}
+
+body {
+    font-family: Roboto;
+    font-style: normal;
+    src: url("../Font/Roboto-Bold.woff2") format("truetype");   
+}
+
+.header-txt {
+    width: 186px;
+    height: 20px;
+    font-size: 45px;
+    font-style: normal;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.header-txt-down {
+    width: 186px;
+    height: 20px;
+    font-size: 19px;
+    margin: -6px 0px 10px 8px;
+}
+
+.button {
+    font-size: 24px;
+    font-weight: 400;
+    width: 193px;
+    height: 52px;
+    border-radius: 10px;
+    margin: -76px 2px;
+    background-color: #ffffff;
+    float: right;
+}
+.log-cont {
+    display: inline-block;
+    width: 211px;
+    height: 50px;
+}
