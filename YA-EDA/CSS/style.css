@@ -24,6 +24,7 @@ body {
     font-style: normal;
     display: inline-block;
     vertical-align: top;
+    margin: -6px -4px;
 }
 
 .header-txt-down {
